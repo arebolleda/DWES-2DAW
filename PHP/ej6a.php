@@ -6,7 +6,7 @@
     <body>
         <?php  
             // PEDRO FERNÁNDEZ GARCÍA
-
+            /*ALFONSO:<<<< Muy bien resuelto*/
             $array1 = array("Bases Datos","Entornos Desarrollo","Programación");
             $array2 = array("Sistemas Informáticos","FOL","Mecanizado");
             $array3 = array("Desarrollo Web ES","Desarrollo Web EC","Despliegue","Desarrollo Interfaces", "Inglés");
