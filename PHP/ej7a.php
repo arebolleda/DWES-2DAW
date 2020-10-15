@@ -6,6 +6,7 @@
     <body>
         <?php  
             // PEDRO FERNÁNDEZ GARCÍA
+         /*ALFONSO:<<<< Muy bien resuelto ... */
 
             $arrayasociativo = array ("Pedro"=>"25","Carlos"=>"20","Alex"=>"27","Marco"=>"23","Rubén"=>"22");
 
